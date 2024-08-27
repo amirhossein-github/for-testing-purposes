@@ -1,5 +1,7 @@
 # for-testing-purposes
 To test and discover new things 🥼🔎.
+
+```js
 let images = []
 
 function setImages(){
@@ -35,3 +37,4 @@ function setImages(){
 }
 
 setImages()
+```
