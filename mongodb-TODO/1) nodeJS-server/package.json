@@ -1,0 +1,17 @@
+{
+  "name": "my_starter_server",
+  "version": "1.0.0",
+  "main": "servers.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "clear; nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}
